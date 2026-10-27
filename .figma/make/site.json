@@ -1,0 +1,15 @@
+{
+  "title": "Privéx Studio | Russian Manicure & Dry Pedicure in Birmingham, AL",
+  "description": "Russian manicure, Builder Gel and waterless dry pedicures in Birmingham, Alabama. Natural nail care with hospital-grade sterilization. By appointment only.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
